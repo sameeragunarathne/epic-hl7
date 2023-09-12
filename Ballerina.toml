@@ -1,0 +1,9 @@
+[package]
+org = "sameerag"
+name = "health.templates.hl7v2.epic"
+version = "0.1.0"
+distribution = "2201.7.0"
+template = true
+
+[build-options]
+observabilityIncluded = true
